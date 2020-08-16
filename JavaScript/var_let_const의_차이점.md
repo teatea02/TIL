@@ -118,3 +118,5 @@ console.log(a); // 5
 - [var, let, const 차이점은?](https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d)
 - [자바스크립트 var, let 차이점](https://m.blog.naver.com/PostView.nhn?blogId=rnjsrldnd123&logNo=221502769952&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [let과 var의 성능 비교](https://gomugom.github.io/let-vs-var-performance-compare/)
+# 작성일
+2020.08.10
